@@ -1,13 +1,10 @@
-body {
-    padding: 5px;
-    margin: 0px;
-    box-sizing: border-box;
-    width: 100%;
-}
 table {
     border-collapse: collapse;    
-    overflow-x: scroll;
 }
 td, th {
     border: 1px solid black;    
+}
+div.scrollpane {
+    width: 100%;
+    overflow-x: scroll;
 }
