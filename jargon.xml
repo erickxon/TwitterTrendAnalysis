@@ -2,6 +2,6 @@
 <!DOCTYPE jargon SYSTEM "dtd/jargon.dtd">
 <jargon>
   <term name="CDH">
-    <source href="https://www.cloudera.com/documentation/enterprise/5-6-x/categories/hub_cdh.html">Cloudera distribution containing core Hadoop</source>
+    <source href="https://www.cloudera.com/documentation/enterprise/5-6-x/categories/hub_cdh.html" meaning="Cloudera distribution containing core Hadoop"></source>
   </term>
 </jargon>
