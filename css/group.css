@@ -1,6 +1,8 @@
 html {
     margin: 0px;
     padding: 0px;
+    font: arial;
+    font-size: 10pt;
 }
 table {
     margin: 5px;
