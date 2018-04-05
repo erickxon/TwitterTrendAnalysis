@@ -11,3 +11,6 @@ A repository for Building Big Data Systems Assignment 2
 - [Analyzing Twitter Data with Apache Hadoop, Part 2: Gathering Data with Flume](http://blog.cloudera.com/blog/2012/10/analyzing-twitter-data-with-hadoop-part-2-gathering-data-with-flume/#comment-48910)
 - [Analyzing Twitter Data with Apache Hadoop, Part 3: Querying Semi-structured Data with Apache Hive](http://blog.cloudera.com/blog/2012/11/analyzing-twitter-data-with-hadoop-part-3-querying-semi-structured-data-with-hive/)
 - [How-to: Analyze Twitter Data with Hue](http://blog.cloudera.com/blog/2013/03/how-to-analyze-twitter-data-with-hue/)
+
+## Assignment Indirect Links
+- [CDH Twitter Example on GitHub](https://github.com/cloudera/cdh-twitter-example)
