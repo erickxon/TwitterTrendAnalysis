@@ -6,6 +6,10 @@ table {
     margin: 5px;
     border-collapse: collapse;    
 }
+th {
+    background-color: #336699;
+    color: white;
+}
 td, th {
     border: 1px solid black;    
 }
