@@ -3,3 +3,4 @@
 <!ATTLIST member name CDATA #REQUIRED>
 <!ATTLIST member phone-number CDATA #IMPLIED>
 <!ATTLIST member student-number CDATA #IMPLIED>
+<!ATTLIST member email-address CDATA #IMPLIED>
