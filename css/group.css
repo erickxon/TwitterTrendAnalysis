@@ -6,7 +6,6 @@ body {
 }
 table {
     border-collapse: collapse;    
-    width: 100%;    
     overflow-x: scroll;
 }
 td, th {
