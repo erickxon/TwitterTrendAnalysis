@@ -1,0 +1,5 @@
+<!ELEMENT group (member*)>
+<!ELEMENT member (#PCDATA)>
+<!ATTLIST member name CDATA #REQUIRED>
+<!ATTLIST member phone-number CDATA #IMPLIED>
+<!ATTLIST member student-number CDATA #IMPLIED>
