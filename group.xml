@@ -2,9 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="xsl/group.xsl?nocache=1"?>
 <!DOCTYPE group SYSTEM "dtd/group.dtd">
 <group>
+  <member name="John"></member>
   <member
     name="Dmitry Makhnin" 
     phone-number="647-291-3457"
     email-address="dmitry.makhnin@ryerson.ca"
     student-number="500376540"></member>
+  <member name="JJ"></member>
+  <member name="Leslie"></member>
 </group>
