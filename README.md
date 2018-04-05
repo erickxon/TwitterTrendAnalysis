@@ -1,6 +1,8 @@
 # cps853_a2
 A repository for Building Big Data Systems Assignment 2
 
+![pipeline diagram](twitter.png)
+
 ## Data Links
 - Group members: <a target="blank" href="https://dmitrymakhnin.github.io/cps853_a2/group.xml">Click Here</a> <br />
 - Open issues: <a target="blank" href="https://github.com/dmitrymakhnin/cps853_a2/issues?q=is%3Aopen+is%3Aissue">Click Here</a> <br />
