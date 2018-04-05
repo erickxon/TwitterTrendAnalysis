@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/group.css"></link>
   </head>  
   <body>
-    <table>
+    <div class="scrollpane"><table>
       <tr>
         <th>name</th>
         <th>student number</th>
@@ -39,7 +39,7 @@
           </td>
         </tr>
       </xsl:for-each>
-    </table>
+    </table></div>
   </body>
 </html>
   </xsl:template>
