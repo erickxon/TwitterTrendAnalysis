@@ -6,11 +6,12 @@
   <term name="Apache Hue">
     <source meaning="Hadoop User Experience" href="https://en.wikipedia.org/wiki/Hue_(Hadoop)" />
   </term>
-  <term name="CDH" expands-to="Cloudera distribution containing core Hadoop">
+  <term name="CDH" expands-to="Cloudera distribution containing core Hadoop">    
     <is according-to="https://www.cloudera.com/documentation/enterprise/5-9-x/categories/hub_cdh.html">
-Cloudera distribution containing core Hadoop (HDFS, MapReduce, YARN) and the following related projects: Avro, Flume, Fuse-DFS, HBase, Hive, Hue,Impala, Mahout, Oozie, Pig, Cloudera Search, Sentry, Spark, Sqoop, Whirr, ZooKeeper, DataFu, and Kite.
-
-CDH is free, 100% open source, and licensed under the Apache 2.0 license. CDH is supported on many Linux distributions.      
+CDH is Cloudera’s 100% open source platform distribution, including Apache Hadoop and built specifically 
+to meet enterprise demands. CDH delivers everything you need for enterprise use right out of the box. 
+By integrating Hadoop with more than a dozen other critical open source projects, 
+Cloudera has created a functionally advanced system that helps you perform end-to-end Big Data workflows.    
     </is>
   </term>
 </jargon>
