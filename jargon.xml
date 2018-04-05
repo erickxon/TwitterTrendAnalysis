@@ -2,10 +2,6 @@
 <!DOCTYPE jargon SYSTEM "dtd/jargon.dtd">
 <jargon>
   <term name="Cloudera"></term>
-  <term name="Cloudera Manager">
-    <is according-to="https://www.cloudera.com/downloads/manager/5-14-1.html">Cloudera Manager makes it easy to manage Hadoop deployments of any scale in production. Quickly deploy, configure, and monitor your cluster through an intuitive UI — complete with rolling upgrades, backup and disaster recovery, and customizable alerts. Cloudera Manager is available as an integrated and supported part of Cloudera Enterprise.</is>
-    <is according-to="Dmitry Makhnin">A web-application that can be used to manage various components of CDH.</is>
-  </term>
   <term name="Apache Hive">
     <is according-to="https://en.wikipedia.org/wiki/Apache_Hive">Apache Hive is a data warehouse software project built on top of Apache Hadoop for providing data summarization, query and analysis.[2] Hive gives an SQL-like interface to query data stored in various databases and file systems that integrate with Hadoop. Traditional SQL queries must be implemented in the MapReduce Java API to execute SQL applications and queries over distributed data. Hive provides the necessary SQL abstraction to integrate SQL-like queries (HiveQL) into the underlying Java without the need to implement queries in the low-level Java API.</is>
   </term>
