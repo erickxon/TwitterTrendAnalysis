@@ -18,5 +18,6 @@ to meet enterprise demands. CDH delivers everything you need for enterprise use 
 By integrating Hadoop with more than a dozen other critical open source projects, 
 Cloudera has created a functionally advanced system that helps you perform end-to-end Big Data workflows.    
     </is>
+    <is according-to="Dmitry Makhnin">A distribution of various tools that comes with a preconfigured Hadoop installation</is>
   </term>
 </jargon>
