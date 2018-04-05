@@ -6,6 +6,7 @@
   </term>
   <term name="Apache Hive">
     <is according-to="https://en.wikipedia.org/wiki/Apache_Hive">Apache Hive is a data warehouse software project built on top of Apache Hadoop for providing data summarization, query and analysis.[2] Hive gives an SQL-like interface to query data stored in various databases and file systems that integrate with Hadoop. Traditional SQL queries must be implemented in the MapReduce Java API to execute SQL applications and queries over distributed data. Hive provides the necessary SQL abstraction to integrate SQL-like queries (HiveQL) into the underlying Java without the need to implement queries in the low-level Java API.</is>
+    <is according-to="Dmitry Makhnin">A command line interface.</is>
   </term>
   <term name="Hue" expands-to="Hadoop User Experience">
     <is according-to="https://en.wikipedia.org/wiki/Hue_(Hadoop)">Hue is an open-source Web interface that supports Apache Hadoop and its ecosystem, licensed under the Apache v2 license.</is>
