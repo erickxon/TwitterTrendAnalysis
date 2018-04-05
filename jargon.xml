@@ -9,6 +9,7 @@
   </term>
   <term name="Hue" expands-to="Hadoop User Experience">
     <is according-to="https://en.wikipedia.org/wiki/Hue_(Hadoop)">Hue is an open-source Web interface that supports Apache Hadoop and its ecosystem, licensed under the Apache v2 license.</is>
+    <is according-to="Dmitry Makhnin">A server that hosts a localhost web application for managing Hadoop related settings.</is>
   </term>
   <term name="CDH" expands-to="Cloudera distribution containing core Hadoop">    
     <is according-to="https://www.cloudera.com/documentation/enterprise/5-9-x/categories/hub_cdh.html">
