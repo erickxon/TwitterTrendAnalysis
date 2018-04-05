@@ -1,7 +1,7 @@
 body {
     padding: 5px;
     margin: 0px;
-    box-sizing: border-box;
+    box-sizing: content-box;
     width: 100%;
 }
 table {
