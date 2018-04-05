@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Group</title>
+    <link rel="stylesheet" href="css/group.css"></link>
   </head>  
   <body>
     <table>
