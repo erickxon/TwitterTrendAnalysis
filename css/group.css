@@ -1,10 +1,15 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
 table {
+    margin: 5px;
     border-collapse: collapse;    
 }
 td, th {
     border: 1px solid black;    
 }
 div.scrollpane {
-    width: 100%;
+    max-width: 100%;
     overflow-x: scroll;
 }
