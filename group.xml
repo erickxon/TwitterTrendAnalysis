@@ -1,5 +1,5 @@
 <?xml version="1.0" standalone="no"?>
-<?xml-stylesheet type="text/xsl" href="xsl/group.xsl"?>
+<?xml-stylesheet type="text/xsl" href="xsl/group.xml"?>
 <!DOCTYPE group SYSTEM "dtd/group.dtd">
 <group>
   <member
