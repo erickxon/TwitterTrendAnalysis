@@ -1,7 +1,7 @@
 <!ELEMENT jargon (term*)>
-<!ELEMENT term (source*)>
-<!ELEMENT source (#PCDATA)>
+<!ELEMENT term (is*)>
 
-<!ATTLIST source href CDATA #REQUIRED>
-<!ATTLIST source meaning CDATA #REQUIRED>
 <!ATTLIST term name CDATA #REQUIRED>
+<!ATTLIST term expands-to CDATA #IMPLIED>
+<!ATTLIST is according-to CDATA #REQUIRED>
+
