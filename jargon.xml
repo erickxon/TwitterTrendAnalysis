@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="false"?>
 <!DOCTYPE jargon SYSTEM "dtd/jargon.dtd">
 <jargon>
-  <term name="CDH" meaning="Cloudera distribution containing core Hadoop">
-    <source href="https://www.cloudera.com/documentation/enterprise/5-6-x/categories/hub_cdh.html" />
+  <term name="CDH">
+    <source href="https://www.cloudera.com/documentation/enterprise/5-6-x/categories/hub_cdh.html">Cloudera distribution containing core Hadoop</source>
   </term>
 </jargon>
