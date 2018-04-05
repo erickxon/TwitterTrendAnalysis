@@ -1,7 +1,16 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE jargon SYSTEM "dtd/jargon.dtd">
 <jargon>
-  <term name="CDH">
-    <source href="https://www.cloudera.com/documentation/enterprise/5-6-x/categories/hub_cdh.html" meaning="Cloudera distribution containing core Hadoop"></source>
+  <term name="Cloudera"></term>
+  <term name="Apache Hive"></term>
+  <term name="Apache Hue">
+    <source meaning="Hadoop User Experience" href="https://en.wikipedia.org/wiki/Hue_(Hadoop)" />
+  </term>
+  <term name="CDH" expands-to="Cloudera distribution containing core Hadoop">
+    <is according-to="https://www.cloudera.com/documentation/enterprise/5-9-x/categories/hub_cdh.html">
+Cloudera distribution containing core Hadoop (HDFS, MapReduce, YARN) and the following related projects: Avro, Flume, Fuse-DFS, HBase, Hive, Hue,Impala, Mahout, Oozie, Pig, Cloudera Search, Sentry, Spark, Sqoop, Whirr, ZooKeeper, DataFu, and Kite.
+
+CDH is free, 100% open source, and licensed under the Apache 2.0 license. CDH is supported on many Linux distributions.      
+    </is>
   </term>
 </jargon>
