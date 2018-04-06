@@ -16,3 +16,5 @@ A repository for Building Big Data Systems Assignment 2
 
 ## Assignment Indirect Links
 - <a href="https://github.com/cloudera/cdh-twitter-example" target="blank">CDH Twitter Example on GitHub</a>
+- <a href="https://hadoopcommunityblog.wordpress.com/2015/08/05/installing-hadoop-on-ubuntu-14/">A tutorial on installing hadoop on ubuntu</a>
+- <a href="https://wiki.apache.org/hadoop/GettingStartedWithHadoop">getting started with hadoop</a>
