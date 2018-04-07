@@ -4,6 +4,8 @@ A repository for Building Big Data Systems Assignment 2
 ![pipeline diagram](twitter.png)
 
 ## Data Links
+- Report: <a target="blank" href="https://docs.google.com/document/d/1kAjBWSQQPTxDpBiHPSA6n3sIryjUdsJxKSHxz_kAvEw/edit">Click Here</a> 
+- Presentation: <a target="blank" href="https://docs.google.com/presentation/d/1H3UqeUY_8xybwER7LcujYhcpc6l89glzYPvMy9PAig8/edit#slide=id.p">Click Here</a>
 - Group members: <a target="blank" href="https://dmitrymakhnin.github.io/cps853_a2/group.xml">Click Here</a> <br />
 - Jargon Terms: <a target="blank" href="https://dmitrymakhnin.github.io/cps853_a2/jargon.xml">Click Here</a> <br />
 - Open issues: <a target="blank" href="https://github.com/dmitrymakhnin/cps853_a2/issues?q=is%3Aopen+is%3Aissue">Click Here</a> <br />
