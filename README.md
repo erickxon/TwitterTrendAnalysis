@@ -5,6 +5,7 @@ A repository for Building Big Data Systems Assignment 2
 
 ## Data Links
 - Group members: <a target="blank" href="https://dmitrymakhnin.github.io/cps853_a2/group.xml">Click Here</a> <br />
+- Jargon Terms: <a target="blank" href="https://dmitrymakhnin.github.io/cps853_a2/jargon.xml">Click Here</a> <br />
 - Open issues: <a target="blank" href="https://github.com/dmitrymakhnin/cps853_a2/issues?q=is%3Aopen+is%3Aissue">Click Here</a> <br />
 - Closed issues: <a target="blank" href="https://github.com/dmitrymakhnin/cps853_a2/issues?q=is%3Aissue+is%3Aclosed">Click Here</a>
 
