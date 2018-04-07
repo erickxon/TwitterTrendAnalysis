@@ -19,3 +19,6 @@ A repository for Building Big Data Systems Assignment 2
 - <a href="https://github.com/cloudera/cdh-twitter-example" target="blank">CDH Twitter Example on GitHub</a>
 - <a href="https://hadoopcommunityblog.wordpress.com/2015/08/05/installing-hadoop-on-ubuntu-14/">A tutorial on installing hadoop on ubuntu</a>
 - <a href="https://wiki.apache.org/hadoop/GettingStartedWithHadoop">getting started with hadoop</a>
+
+## Just In Case
+- <a href="https://stackoverflow.com/questions/1305237/how-to-list-variables-declared-in-script-in-bash">How can I list all global variables in bash(for reference in bigdata shell)</a>
